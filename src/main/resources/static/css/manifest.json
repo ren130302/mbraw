@@ -1,0 +1,13 @@
+{
+	"short_name": "AP",
+	"name": "ASAP",
+	"start_url": "/",
+	"display": "standalone",
+	"icons": [
+		{
+			"src": "/static/favicon.ico",
+			"sizes": "16x16",
+			"type": "image/png"
+		}
+	]
+}
